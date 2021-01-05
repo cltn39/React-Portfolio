@@ -159,7 +159,7 @@ Project Link: [https://github.com/cltn39/React-Portfolio](https://github.com/clt
 [version-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [issues-shield]: https://img.shields.io/github/issues-closed/cltn39/React-Portfolio?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/cltn39/React-Portfolio/issues
-[license-shield]: https://img.shields.io/github/license/cltn39/React-Portfolio?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge
 [license-url]: https://github.com/cltn39/React-Portfolio/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/webdev-chisoo-chris-song/
